@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-👨‍💻 Retired Full-Stack Developer | Hobbyist Coder | Tech Enthusiast
-
+Retired Full-Stack Developer | Hobbyist Coder | Tech Enthusiast:
 After 35 years as a full-time full-stack developer, I'm now retired and enjoying the freedom to dive into hobby projects that spark my curiosity.
 
 ### Tech Background:
